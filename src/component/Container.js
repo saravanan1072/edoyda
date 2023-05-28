@@ -95,7 +95,7 @@ export default function Container() {
         </div>
 
 
-        <div className='child '> 
+        <div className='child child2'> 
         <form>
 <div className='background'>
 
